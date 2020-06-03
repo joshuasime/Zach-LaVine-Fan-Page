@@ -1,0 +1,119 @@
+*{
+	background-color: #bfb4a8;
+	color: #9c0808;
+	font-family: "Verdana", Sans-serif;
+}
+.title {
+	font-family: "Comic Sans MS", sans-serif;
+	text-align: center;
+}
+table, td, th {
+	vertical-align: middle;
+	text-align: center;
+	border-radius: 10px;
+	
+}
+th {
+	font-weight: bold;
+	background-color: grey;
+}
+td {
+	background-color: #bfb4a8;
+}
+td, th{
+	padding: 20px;
+}
+table{
+	background-color: black;
+	margin-bottom: 50px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.awaybulls {
+	position: relative;
+	max-width: 500px;
+	display: inline;
+	float: left;
+}
+.zachbeforediv{
+	align: top;
+	margin-top: 80px;
+	margin-right:auto;
+	margin-left: 510px;
+	min-width: 325px;
+	max-width: 600px;
+	padding: 0px 20px 0px 20px;
+	border: 4px dashed black;
+	border-radius: 10px;
+}
+#zachbeforeballs{
+	position:relative;
+	display: inline;
+}
+p{
+	text-align: justify;
+	text-indent: 50px
+}
+
+hr{
+	height: 3px;
+	border-color: black;
+	background-color: black;
+}
+.normalparagraph{
+	margin-right: auto;
+	margin-left: auto;
+	min-width: 883px;
+	max-width: 1200px;
+	padding: 0px 20px 0px 20px;
+	border: 4px dashed black;
+	border-radius: 10px;
+}
+.imagechildhoodpara {
+	padding: 0px 0px 0px 10%;
+	margin-top: -50px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.instagram {
+	float: left;
+}
+.instagram:hover{
+	opacity: 50%;
+}
+.twitter:hover{
+	opacity: 50%;
+}
+.twitter {
+	float: left;
+}
+.socialmedialinks {
+	display: inline-block;
+	position: relative;
+	width: 50px;
+	height: 50px;
+}
+.bottombar {
+	margin: 30px 5% 0px 5%;
+	background-color: grey;
+	overflow: auto;
+	border-radius: 15px;
+}
+#bottombartext {
+	font-size: 14px;
+	text-indent: 50px;
+	background-color: grey;
+}
+.statslinkdiv {
+	border: black dashed 4px;
+	max-width: 600px;
+	margin: auto auto 50px auto;
+}
+.statslink {
+	text-align: center;
+	display: block;
+}
+.statslinkclick:hover {
+	opacity: 50%;
+	color: black;
+}
